@@ -1,4 +1,4 @@
-# 
+# updated nft sniper bot | collection-scanning + snipe-list-management is the best nft sniper bot, featuring collection-scanning and snipe-list-management. Fast, smart, and
 
 
 
